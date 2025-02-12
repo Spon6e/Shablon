@@ -1,0 +1,6 @@
+﻿  iskluchenia.cpp
+C:\Users\79123\OneDrive\Desktop\OOP\Шаблоны и исключения\iskluchenia\iskluchenia.cpp(44,25): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\79123\OneDrive\Desktop\OOP\Шаблоны и исключения\iskluchenia\iskluchenia.cpp(46,25): warning C4305: аргумент: усечение из "double" в "float"
+  iskluchenia.vcxproj -> C:\Users\79123\OneDrive\Desktop\OOP\Шаблоны и исключения\iskluchenia\x64\Debug\iskluchenia.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
